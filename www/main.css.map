@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./style.scss"],"names":[],"mappings":"AAAA,EACE,qBAAsB,CACvB,KAGC,sBAAuB,CACvB,QAAS,CACT,iBAAkB","file":"main.css","sourcesContent":["* {\n  box-sizing: border-box;\n}\n\nBODY {\n  font-family: sans-serif;\n  margin: 0;\n  overflow-y: scroll;\n}\n"],"sourceRoot":""}
